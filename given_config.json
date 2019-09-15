@@ -1,5 +1,5 @@
 {
     "dt_rd_interval": "10",
     "dt_rd_ag_interval": "500",
-    "dt_up_interval": "15"
+    "dt_up_interval": "0"
 }
