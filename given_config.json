@@ -1,6 +1,6 @@
 {
     "dt_rd_interval": "10",
-    "dt_rd_ag_interval": "500",
+    "dt_rd_ag_interval": "2000",
     "dt_up_interval": "15",
     "nt_time": "7:0:0",
     "nt_cg_interval": "300"
