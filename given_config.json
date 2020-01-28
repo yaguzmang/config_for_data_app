@@ -1,5 +1,5 @@
 {
-    "dt_rd_interval": "2",
+    "dt_rd_interval": "30",
     "dt_rd_ag_interval": "2000",
     "dt_up_interval": "1",
     "nt_time": "7:0:0",
